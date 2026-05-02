@@ -1,21 +1,58 @@
-MIT License
+LICENSE
+MIT License (Modified Attribution Clause with AI-Assisted Disclaimer)
+Modified from MIT License - MIT License - Wikipedia 
+===================================
+LICENSE NOTICE START
+Copyright (c) 2026 Neil Satish Harwani, India
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Any use, reuse, modification, or distribution of this Software must include reasonable and visible attribution to:
+Neil Satish Harwani (India) as Lead Innovator, Architect, and Integrator, with hands-on design, development, and execution of the project
+Reference link: https://www.TechAndTrain.com
+Attribution may be provided in documentation, user interface, or source code in a reasonable and visible manner.
+ChatGPT or other AI tools may be acknowledged for assistance in refinement, generation, or structuring of content, but such acknowledgement is not mandatory.
+No Endorsement:
+This license does not imply endorsement by Neil Satish Harwani, IIT Gandhinagar, or any associated ecosystem unless explicitly stated.
+AI-Assisted Content Disclaimer:
+This Software may include content generated or assisted by artificial intelligence tools, including ChatGPT. All such outputs have been reviewed, modified, and integrated by the author. To the best of the author's knowledge, the Software does not intentionally infringe upon any third-party intellectual property rights. Users are advised to conduct their own due diligence before commercial or production use.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+====================================
+LICENSE NOTICE END
 
-Copyright (c) 2026 neil-hsopc
+AUTHORSHIP & ORIGINALITY DECLARATION
+This work is an original creation led by Neil Satish Harwani as Lead Innovator, Architect, and Integrator. While AI tools (including ChatGPT) were used for assistance, all outputs were reviewed, modified, and integrated through substantial human effort and judgment.
+Copyright is claimed on the overall structure, design, integration, and final form of the work.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+DATA PROTECTION DISCLAIMER
+This Software is not intended to process personal data unless explicitly stated. Users are responsible for ensuring compliance with applicable data protection laws, including the Digital Personal Data Protection Act, 2023 (India).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+PROJECT CONTEXT
+This project is part of the Executive Masters in Data Science for Decision Making at IIT Gandhinagar - DSDM | IITGNX 
+Status:
+Change log: 
+v0.9_1 – 18th April 2026 (WIP / Draft)
+v0.9_2 – 21st  April 2026 (WIP / Draft) - Prompt 7 added and related section on literature review added in the end 
+v0.9_3 – 21st  April 2026 (WIP / Draft) - Prompt 8 added and related section on research question / hypothesis
+This is a practical project concept note and implementation plan, not a formal research paper. Will convert into a research paper and PhD thesis later. 
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+DUAL LICENSE
+This project is dual-licensed:
+MIT License (Standard) – for maximum reuse and adoption
+MIT License (Modified Attribution Clause with AI-Assisted Disclaimer) –
+for attribution-based usage
+Users may choose either license based on their needs.
+
+ATTRIBUTION (For Attribution-Based Usage)
+Please credit:
+Neil Satish Harwani (India)
+Lead Innovator, Architect, Integrator
+https://www.TechAndTrain.com
+Email: Neil@HarwaniSystems.in 
+
+
