@@ -40,7 +40,7 @@ v0.9_2 – 21st  April 2026 (WIP / Draft) - Prompt 7 added and related section o
 
 v0.9_3 – 21st  April 2026 (WIP / Draft) - Prompt 8 added and related section on research question / hypothesis
 
-This is a practical project concept note and implementation plan, not a formal research paper. Will convert into a research paper and PhD thesis later. 
+This is a practical project concept note and implementation plan, not a formal research paper. Will convert into a research paper and PhD thesis later (maybe as time and work progressses). 
 
 Prompts and thinking used:
 
