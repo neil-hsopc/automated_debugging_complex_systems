@@ -22,6 +22,14 @@ Other respective open-source projects and foundations
 These logos are used solely to represent the technologies referenced in this project and do not imply any affiliation, endorsement, or sponsorship.
 All rights, including trademark rights, remain with the respective owners. Users must comply with individual trademark and brand usage guidelines when reusing such logos.
 
+PROJECT CONTEXT
+This project is part of the Executive Masters in Data Science for Decision Making at IIT Gandhinagar - DSDM | IITGNX 
+Status:
+Change log: 
+v0.9_1 – 18th April 2026 (WIP / Draft)
+v0.9_2 – 21st  April 2026 (WIP / Draft) - Prompt 7 added and related section on literature review added in the end 
+v0.9_3 – 21st  April 2026 (WIP / Draft) - Prompt 8 added and related section on research question / hypothesis
+This is a practical project concept note and implementation plan, not a formal research paper. Will convert into a research paper and PhD thesis later. 
 
 Prompts and thinking used:
 1. Generic framework and implementation template for automated debugging and redeployment for electrical, electronics & technology systems assisted by models formed by Markov Chains, Time Series, Bayesian and Graphs Expand and build a 5 page proposal, refine as necessary 
@@ -34,4 +42,6 @@ Prompts and thinking used:
  Electronics & Technology Systems Using Probabilistic and Graph-Based Models
 Conduct literature review for above and give me top 15-25 papers on this with tentative research gaps - 3 to 4
 8. Generic Framework for Automated Debugging & Redeployment of Electrical, Electronics & Technology Systems Using Probabilistic and Graph-Based Models
-Frame a research question / hypothesis for the above 
+Frame a research question / hypothesis for the above
+
+
