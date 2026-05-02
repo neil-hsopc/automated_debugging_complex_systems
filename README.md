@@ -6,4 +6,4 @@ Roadmap:
 
 -- 2028-29: Extrapolate to Electrical systems (grids, PLCs, SCADA), Electronics systems (embedded devices, IoT) and Technology systems (applications, microservices, cloud infra)
 
--- 2030-31: Create a generic framework and publishable work in journals for the above 
+-- 2030-31: Create a generic framework and publishable work in journals and conferences for the above 
