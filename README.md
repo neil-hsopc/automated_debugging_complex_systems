@@ -67,8 +67,6 @@ Frame a research question / hypothesis for the above
 
 ***********************************
 
-Here is your **clean, copy-paste ready `README.md`** in proper Markdown:
-
 ---
 
 ```markdown
